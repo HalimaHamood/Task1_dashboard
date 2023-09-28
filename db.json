@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "name": "testingggwe",
+      "username": "halimahamood",
+      "email": "halima.hamood99@outlook.com",
+      "phone": "+968 7110 4488",
+      "id": "ALm0ZNF"
+    },
+    {
+      "name": "Halima Alrajaibii",
+      "username": "halimahamood",
+      "email": "halima.hamood99@outlook.com",
+      "phone": "+968 7110 4422",
+      "id": "mqPpwdd"
+    },
+    {
+      "name": "Sumaiyaaaa",
+      "username": "sumaiyahamed",
+      "email": "sumayia33@outlook.com",
+      "phone": "0545554544",
+      "id": "EfILdKg"
+    },
+    {
+      "name": "testing",
+      "username": "halimahamood",
+      "email": "halima.hamood99@outlook.com",
+      "phone": "+968 7110 4422",
+      "id": "ib5hHxk"
+    },
+    {
+      "name": "Mitchell Admin",
+      "username": "Mitchell",
+      "email": "abc@gmail.com",
+      "phone": "+1 555-555-5555",
+      "id": "NDi542H"
+    }
+  ]
+}
